@@ -1,4 +1,4 @@
-在 GitHub 上，所有 Markdown 文件（.md）都天然支持插图，不需要特殊“新建”格式。你只需要：
+# 在 GitHub 上，所有 Markdown 文件（.md）都天然支持插图，不需要特殊“新建”格式。你只需要：
 
 创建一个 .md 文件（例如 README.md 或 doc.md）；
 在文件中插入图片的 Markdown 语法；
