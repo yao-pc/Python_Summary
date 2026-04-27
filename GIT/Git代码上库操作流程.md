@@ -1,5 +1,5 @@
 基本工作流程
-![logo](./images/logo.png)
+![logo](./images/git.png)
 
 
 	1. 克隆远程仓库（首次操作）
