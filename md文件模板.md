@@ -56,7 +56,7 @@ npm install
 - 错误日志截图或文本：
   ```text
   在此粘贴错误日志
-
+```
 ---
 
 ### 3. PR 模板 (`.github/PULL_REQUEST_TEMPLATE.md`)
