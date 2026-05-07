@@ -26,7 +26,7 @@ cd your-project
 pip install -r requirements.txt
 # 或者
 npm install
-
+```
 ---
 
 ### 2. Issue 模板 (`.github/ISSUE_TEMPLATE/bug_report.md`)
