@@ -17,7 +17,7 @@ git clone https://github.com/yourname/your-project.git
 ### 2. Issue模板 (`.github/ISSUE_TEMPLATE/bug_report.md`)[单引号会被加上阴影]
 **适用场景**：当用户报告 Bug 时，引导他们提供关键信息，减少沟通成本。[双星号加粗字体]
 
-```markdown
+```
 ## 🐛 问题描述 (Bug Description)
 > 请简要描述你遇到的问题。
 
