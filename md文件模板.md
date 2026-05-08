@@ -33,11 +33,6 @@ markdown会使标题带上颜色，不转义章节标题
 2. 第二步：...
 3. 第三步：...
 
-## 📸 环境信息 (Environment)
-- **操作系统**: [例如：Windows 10 / macOS Monterey / Ubuntu 20.04]
-- **版本**: [例如：v1.2.3]
-- **浏览器/工具**: [例如：Chrome 110 / VS Code]
-
 ## 📝 附加信息 (Additional Context)
 - 错误日志截图或文本：
   ```text
