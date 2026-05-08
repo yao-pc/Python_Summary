@@ -18,12 +18,13 @@ git clone https://github.com/yourname/your-project.git
 **适用场景**：当用户报告 Bug 时，引导他们提供关键信息，减少沟通成本。[双星号加粗字体]
 
 ```markdown
+markdown会使标题带上颜色，不转义章节标题
 ## 🐛 问题描述 (Bug Description)
 > 请简要描述你遇到的问题。
 
 **预期行为**：
 - 描述一下你原本期望发生什么。
-
+```
 **实际行为**：
 - 描述一下实际发生了什么。
 
