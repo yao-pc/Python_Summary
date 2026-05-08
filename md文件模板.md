@@ -7,22 +7,14 @@
 - [分节的一个点]
 
 ### 安装步骤
-```bash
-# 克隆仓库
+```bash [代码方框]
+# 克隆仓库[三引号中#被转义]
 git clone https://github.com/yourname/your-project.git
-
-# 进入目录
-cd your-project
-
-# 安装依赖
-pip install -r requirements.txt
-# 或者
-npm install
 ```
----
+--- [一条分割线]
 
-### 2. Issue 模板 (`.github/ISSUE_TEMPLATE/bug_report.md`)
-**适用场景**：当用户报告 Bug 时，引导他们提供关键信息，减少沟通成本。
+### 2. Issue模板 (`.github/ISSUE_TEMPLATE/bug_report.md`)[单引号会被加上阴影]
+**适用场景**：当用户报告 Bug 时，引导他们提供关键信息，减少沟通成本。[双星号加粗字体]
 
 ```markdown
 ## 🐛 问题描述 (Bug Description)
