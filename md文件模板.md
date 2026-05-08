@@ -11,7 +11,8 @@
 # 克隆仓库[三引号中#被转义]
 git clone https://github.com/yourname/your-project.git
 ```
---- [一条分割线]
+---
+[一条分割线]
 
 ### 2. Issue模板 (`.github/ISSUE_TEMPLATE/bug_report.md`)[单引号会被加上阴影]
 **适用场景**：当用户报告 Bug 时，引导他们提供关键信息，减少沟通成本。[双星号加粗字体]
