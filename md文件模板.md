@@ -37,7 +37,7 @@ markdown会使标题带上颜色，不转义章节标题
 - 错误日志截图或文本：
   ```text
   在此粘贴错误日志
-```
+  ```
 ---
 
 ### 3. PR 模板 (`.github/PULL_REQUEST_TEMPLATE.md`)
