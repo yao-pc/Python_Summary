@@ -1,1 +1,3 @@
-%pip install -U matplotlib
+```python
+pip install -U matplotlib
+```
