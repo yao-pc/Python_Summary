@@ -222,3 +222,13 @@ if __name__ == '__main__':
     window = SerialDebugger()
     window.show()
     sys.exit(app.exec_())
+
+#如何运行
+#将上面代码保存为 serial_debugger.py。
+#连接一个串口设备（如 Arduino、STM32、USB转TTL模块）。
+#打开串口调试助手（如 Arduino IDE 的 Serial Monitor）发送数据。
+#运行 Python 脚本：
+#python serial_debugger.py
+#在界面中选择正确的 COM 口和波特率，点击“打开串口”。
+
+
